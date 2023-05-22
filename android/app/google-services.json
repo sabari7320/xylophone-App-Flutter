@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "805638624561",
+    "project_id": "flutter-awesome-312fb",
+    "storage_bucket": "flutter-awesome-312fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805638624561:android:7478d0730f9a31a887cc10",
+        "android_client_info": {
+          "package_name": "com.example.xylophone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805638624561-rugtrnr5javnj61l2s01c844ts1h88c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xylophone",
+            "certificate_hash": "9cacdacfd6d2f261e669bab6dd7a2c3d5e4edcd9"
+          }
+        },
+        {
+          "client_id": "805638624561-mok62bp39bed36aup9d1g8acn8r6e1u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF0YFrdK1Xvh-voF4fyJ3K4fgp7YscqAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805638624561-mok62bp39bed36aup9d1g8acn8r6e1u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
